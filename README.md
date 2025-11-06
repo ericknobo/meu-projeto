@@ -22,5 +22,5 @@ Site institucional de uma ONG fictícia dedicada à educação, inclusão social
 ## 🛠️ Como rodar localmente
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/ong-esperanca-viva.git
+git clone https://github.com/ericknobo/ong-esperanca-viva.git
 cd ong-esperanca-viva
